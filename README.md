@@ -9,4 +9,6 @@ cd bookrec && python manage.py migrate && python initial_data.py && python manag
 
 
 TO START THE APPLICATION
+
+
 npm run dev
